@@ -1,0 +1,7 @@
+hello every one
+cd /path/to/action-repo
+git checkout -b test-branch
+echo "Hello" > test.txt
+git add test.txt
+git commit -m "Test push event"
+git push origin test-branch
