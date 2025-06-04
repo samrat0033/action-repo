@@ -1,5 +1,4 @@
 # action-repo
-# action-repo
 
 This repository is used solely to generate GitHub webhook events for:
 
